@@ -1,0 +1,53 @@
+body {
+    background-image: url("acuarela.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#calculadora {
+    background-color: #deb88721;
+    height: 300px;
+    width: 977px;
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 275px;
+}
+
+.campo {
+    background: -webkit-linear-gradient(90deg, rgba(216, 92, 92, 0.445) -12%, white 102%);
+    border-radius: 5px;
+    height: 45px;
+    width: 13%;
+    border-color: rgb(177, 104, 104);
+    border-width: medium;
+    border-style: double;
+    text-align: center;
+    margin-top: 107px;
+}
+
+.btnoperar {
+    height: 50px;
+    width: 50px;
+    font-size: x-large;
+}
+
+.glass {
+    border: 0px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.3), inset 0 8px rgba(255, 255, 255, 0.2), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.3);
+    -o-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.3), inset 0 8px rgba(255, 255, 255, 0.2), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.3), inset 0 8px rgba(255, 255, 255, 0.2), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.3), inset 0 8px rgba(255, 255, 255, 0.2), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.3);
+}
+
+.igual {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Poltawski Nowy', serif;
+    color: #ce844e;
+}
